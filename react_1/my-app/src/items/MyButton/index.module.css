@@ -1,0 +1,9 @@
+
+.my-button {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.my-button:hover {
+  cursor: pointer;
+}
