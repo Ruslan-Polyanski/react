@@ -1,15 +1,9 @@
-import { useState } from 'react';
 
-function Button() {
-  const [count, setCount] = useState(0);
-
-  function handleIncrement() {
-    setCount(count + 1);
-  }
+function Button({count, handlerIncrement}) {
 
   return (
     <>
-      <button onClick={handleIncrement}>Increment {count}</button>
+      <button onClick={handlerIncrement}>Increment {count}</button>
     </>
   )
 }
