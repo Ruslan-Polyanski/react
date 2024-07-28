@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//ruslan-polyanski.github.io/react/static/css/main.b0d90060.css",
+    "main.js": "//ruslan-polyanski.github.io/react/static/js/main.768107cc.js",
+    "index.html": "//ruslan-polyanski.github.io/react/index.html",
+    "main.b0d90060.css.map": "//ruslan-polyanski.github.io/react/static/css/main.b0d90060.css.map",
+    "main.768107cc.js.map": "//ruslan-polyanski.github.io/react/static/js/main.768107cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d90060.css",
+    "static/js/main.768107cc.js"
+  ]
+}
