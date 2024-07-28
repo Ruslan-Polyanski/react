@@ -2,11 +2,12 @@
 .buttonAddTask {
   background-color: rgb(127, 194, 233);
   border: none;
-  width: 200px;
+  padding: 0 20px;
   height: 30px;
   font-size: 18px;
   font-weight: 400;
   transition: .3s;
+  margin-left: 5px;
 }
 
 .buttonAddTask:hover {
