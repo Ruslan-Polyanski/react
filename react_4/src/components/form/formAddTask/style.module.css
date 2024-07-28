@@ -1,0 +1,15 @@
+
+.formAddTask {
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.inputArea {
+  height: 100%;
+  margin-right: 5px;
+}
+
+.errorMessageForm {
+  color: red;
+  height: 30px;
+}

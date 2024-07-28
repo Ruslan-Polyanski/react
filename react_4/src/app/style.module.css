@@ -1,6 +1,39 @@
 
-.header {
-  height: 100px;
+.formPositin {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.messageError {
   width: 100%;
-  background-color: rgb(161, 161, 189);
+  min-height: 50px;
+}
+
+.trMessageBase {
+  text-align: center;
+}
+
+.trMessageText {
+  text-align: center;
+}
+
+.list {
+  margin: 10px;
+}
+
+.list li {
+  list-style-type: none;
+  border: 1px solid rgb(3, 156, 245);
+  margin-bottom: 10px;
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.textTask {
+  flex-grow: 1;
+  margin-left: 10px;
 }
